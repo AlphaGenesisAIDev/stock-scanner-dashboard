@@ -1,50 +1,9 @@
 {
-  "updated": "2026-05-13 12:36:36 ET",
-  "scan_label": "Manual Test \u2014 Gap Scanner",
-  "total_scanned": 847,
+  "updated": "2026-05-13 14:51 ET",
+  "scan_label": "Awaiting next 8:35 AM ET scan",
+  "total_scanned": 0,
   "min_score": 40,
-  "results": [
-    {
-      "ticker": "HOOD",
-      "score": 78,
-      "rating": "HIGH",
-      "bias": "LONG",
-      "price": 52.3,
-      "prev_close": 45.8,
-      "gap_pct": 14.19,
-      "premarket_vol": 1240000,
-      "rel_vol": 5.6,
-      "market_cap": 11200000000,
-      "cap_label": "LARGE",
-      "float_shares": 186000000
-    },
-    {
-      "ticker": "SOFI",
-      "score": 65,
-      "rating": "MEDIUM",
-      "bias": "LONG",
-      "price": 18.75,
-      "prev_close": 17.2,
-      "gap_pct": 9.01,
-      "premarket_vol": 620000,
-      "rel_vol": 3.4,
-      "market_cap": 18900000000,
-      "cap_label": "LARGE",
-      "float_shares": 942000000
-    },
-    {
-      "ticker": "RIVN",
-      "score": 55,
-      "rating": "MEDIUM",
-      "bias": "LONG",
-      "price": 14.9,
-      "prev_close": 13.95,
-      "gap_pct": 6.81,
-      "premarket_vol": 285000,
-      "rel_vol": 2.1,
-      "market_cap": 14100000000,
-      "cap_label": "LARGE",
-      "float_shares": 1020000000
-    }
-  ]
+  "data_timestamp": null,
+  "spy_gap": null,
+  "results": []
 }
