@@ -1,0 +1,50 @@
+{
+  "updated": "2026-05-13 12:25:04 ET",
+  "scan_label": "Manual Test \u2014 Gap Scanner",
+  "total_scanned": 999,
+  "min_score": 40,
+  "results": [
+    {
+      "ticker": "NVDA",
+      "score": 82,
+      "rating": "HIGH",
+      "bias": "LONG",
+      "price": 135.5,
+      "prev_close": 122.3,
+      "gap_pct": 10.79,
+      "premarket_vol": 843000,
+      "rel_vol": 4.8,
+      "market_cap": 3310000000000,
+      "cap_label": "MEGA",
+      "float_shares": 2430000000
+    },
+    {
+      "ticker": "META",
+      "score": 71,
+      "rating": "HIGH",
+      "bias": "LONG",
+      "price": 598.2,
+      "prev_close": 570.8,
+      "gap_pct": 4.8,
+      "premarket_vol": 312000,
+      "rel_vol": 3.1,
+      "market_cap": 1520000000000,
+      "cap_label": "MEGA",
+      "float_shares": 2180000000
+    },
+    {
+      "ticker": "CRWD",
+      "score": 63,
+      "rating": "MEDIUM",
+      "bias": "LONG",
+      "price": 418.75,
+      "prev_close": 402.1,
+      "gap_pct": 4.14,
+      "premarket_vol": 98000,
+      "rel_vol": 2.2,
+      "market_cap": 103000000000,
+      "cap_label": "LARGE",
+      "float_shares": 237000000
+    }
+  ]
+}
